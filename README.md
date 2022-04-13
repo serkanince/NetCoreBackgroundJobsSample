@@ -32,6 +32,7 @@ This project contains sample code for making calls from a background job (IHoste
 ### Build & Run
 
 ```ps1
+dotnet restore
 dotnet build
 dotnet run
 ```
