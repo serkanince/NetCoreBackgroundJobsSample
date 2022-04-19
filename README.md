@@ -5,6 +5,8 @@
 
 This project contains sample code for making calls from a background job (IHostedService) to exchange rates. 
 
+[Read More Detail on Blog Post (TR)](https://dev.serkanince.com/2022/04/strategy-pattern-ve-background-job.html)
+
 ## Exchange Rate Sources
 
 
